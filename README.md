@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header using capsule render -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1F3864,2E5FA3&height=200&section=header&text=Diana%20Nadia%20Maulida&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=064E3B,10B981&height=200&section=header&text=Diana%20Nadia%20Maulida&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18&animation=fadeIn)
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E5FA3&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+actually+scale;Turning+messy+data+into+business+decisions;ETL+%7C+Data+Modeling+%7C+Machine+Learning;Open+to+Data+Engineer+%26+Data+Scientist+roles)](https://git.io/typing-svg)
