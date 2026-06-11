@@ -112,7 +112,7 @@ I care about writing clean, maintainable pipelines and making data useful.
 
 <div align="center">
 
-![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dianaaa-nad&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=2E5FA3&icon_color=2E5FA3&text_color=ffffff&bg_color=0d1117)
+### ![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dianaaa-nad&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=2E5FA3&icon_color=2E5FA3&text_color=ffffff&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianaaa-nad&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=2E5FA3&text_color=ffffff&bg_color=0d1117)
 
